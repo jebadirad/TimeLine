@@ -1,0 +1,5 @@
+C:\Users\jebadira\Source\Repos\TimeLine\TimeLine\TimeLine.Domain\bin\Debug\TimeLine.Domain.dll
+C:\Users\jebadira\Source\Repos\TimeLine\TimeLine\TimeLine.Domain\bin\Debug\TimeLine.Domain.pdb
+C:\Users\jebadira\Source\Repos\TimeLine\TimeLine\TimeLine.Domain\obj\Debug\TimeLine.Domain.csprojResolveAssemblyReference.cache
+C:\Users\jebadira\Source\Repos\TimeLine\TimeLine\TimeLine.Domain\obj\Debug\TimeLine.Domain.dll
+C:\Users\jebadira\Source\Repos\TimeLine\TimeLine\TimeLine.Domain\obj\Debug\TimeLine.Domain.pdb
