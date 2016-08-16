@@ -1,0 +1,2 @@
+C:\Users\jebadira\Source\Repos\TimeLine\Client\Client\bin\Debug\Client.exe.config
+C:\Users\jebadira\Source\Repos\TimeLine\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
