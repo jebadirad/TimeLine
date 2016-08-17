@@ -26,7 +26,8 @@ namespace TimeLine.Service
 
                 ) );
             bundles.Add( new BabelBundle( "~/Scripts/App" ).Include(
-                "~/Scripts/app/tl-*"
+                "~/Scripts/app/tl-*" ,
+                "~/Scripts/app/app.jsx"
                 ) );
 
             bundles.Add( new StyleBundle( "~/Content/css" ).Include(
